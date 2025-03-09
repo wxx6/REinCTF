@@ -8,6 +8,8 @@
 |-------|-------|
 | files: | issolved: |
 
+`NES`
+
 ## linuxpdf
 
 > Note: Only supports Google Chrome

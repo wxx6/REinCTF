@@ -9,7 +9,7 @@
 > 
 > Note: flag submission is not case sensitive for this challenge. The flag contains underscores, but not dashes.
 
-| points: | solutions: |
+| points: 183 | solutions: 59 |
 |-------|-------|
 | files: snake.sfc | issolved: |
 
@@ -18,7 +18,7 @@
 > 
 > Note: this challenge is meant to serve as an introduction to the pwn loadall.js challenge. Solving this challenge first is recommended.We've developed a new security engine that can detect flags in any file! It's so good, it can even detect flags in itself!
 
-| points: | solutions: |
+| points: 221 | solutions: 40 |
 |-------|-------|
 | files: flagsecurityengine | issolved: |
 
@@ -27,14 +27,14 @@
 > 
 > Can you navigate through the tangled code and figure out how Shafus actually works? The flag awaits those who can untangle the chaos!
 
-| points: | solutions: |
+| points: 343 | solutions: 16 |
 |-------|-------|
 | files: shafus_easy | issolved: |
 
 ## Jormungandr
 > Remember rabbit hole from last year? This one goes even deeper!
 
-| points: | solutions: |
+| points: 427 | solutions: 10 |
 |-------|-------|
 | files: jormungandr | issolved: |
 
@@ -45,7 +45,7 @@
 >
 > Note: This challenge is not about snakes and apples, you don't need to spend your time on reading 65816 disassembly, it really sounds like the flag got hadouken'd to another castle
 
-| points: | solutions: |
+| points: 1000 | solutions: 0 |
 |-------|-------|
 | files: snake.sfc | issolved: |
 
@@ -56,7 +56,7 @@
 > 
 > Can you untangle the madness, or will you be left questioning reality itself?
 
-| points: | solutions: |
+| points: 1000 | solutions: 1 |
 |-------|-------|
 | files: shafus_hard | issolved: |
 
@@ -69,6 +69,6 @@
 >
 > Note: The solution to this is unrelated to the solution to snake 2.
 
-| points: | solutions: |
+| points: 1000 | solutions: 0 |
 |-------|-------|
 | files: snake.sfc | issolved: |
