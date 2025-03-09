@@ -4,7 +4,7 @@
 
 > I doubt it.
 
-| points: 100 | solutions: |
+| points: 100 | solutions: None |
 |-------|-------|
 | files: flag.exe | issolved: |
 
@@ -17,7 +17,7 @@
 > Updated on March 8 at 18:33: awarded points changed from 250 to 300.
 > Password: 1234567890
 
-| points: 300 | solutions: |
+| points: 300 | solutions: None |
 |-------|-------|
 | files: flag.enc & secusafe.apk | issolved: |
 
@@ -27,7 +27,7 @@
 > 
 > Added on March 8 at 23:55: If the application shows an empty window, you can workaround the rendering bug by setting the environment variable WEBKIT_DISABLE_COMPOSITING_MODE=1.
 
-| points: 400 | solutions: |
+| points: 400 | solutions: None |
 |-------|-------|
 | files: laundromat | issolved: |
 
@@ -35,7 +35,7 @@
 
 > URIRU has developed a supercomputer. (Time, however, passes differently in URIRU, so your mileage may vary.) We got our hands on its prototype. Let's decipher the secrets of ucucuga together!
 
-| points: 400 | solutions: |
+| points: 400 | solutions: None |
 |-------|-------|
 | files: None(link) | issolved: |
 
