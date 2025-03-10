@@ -4,7 +4,7 @@
 
 > GLHF
 
-| points: | solutions: |
+| points: 303 | solutions: 47 |
 |-------|-------|
 | files: | issolved: |
 
@@ -14,7 +14,7 @@
 
 > Note: Only supports Google Chrome
 
-| points: | solutions: |
+| points: 333 | solutions: 41 |
 |-------|-------|
 | files: | issolved: |
 
@@ -22,7 +22,7 @@
 
 > A magic executable file that can run on both Linux and Windows.
 
-| points: | solutions: |
+| points: 357 | solutions: 37 |
 |-------|-------|
 | files: | issolved: |
 
@@ -30,7 +30,7 @@
 
 > try to crack this magic file
 
-| points: | solutions: |
+| points: 571 | solutions: 16 |
 |-------|-------|
 | files: | issolved: |
 
@@ -38,7 +38,7 @@
 
 > Protect JavaScript is hard, so let’s use obfuscator!
 
-| points: | solutions: |
+| points: 714 | solutions: 9 |
 |-------|-------|
 | files: | issolved: |
 
@@ -48,13 +48,13 @@
 > 
 > Hint: 1. z3 is a powerful tool, perhaps with some extra help... 2. Trace down the substitution chain of check_flag 3. Clock signal
 
-| points: | solutions: |
+| points: 1000 | solutions: 1 |
 |-------|-------|
 | files: | issolved: |
 
 ## stone-game
 
-| points: | solutions: |
+| points: 327 | solutions: 42 |
 |-------|-------|
 | files: | issolved: ✓ |
 
