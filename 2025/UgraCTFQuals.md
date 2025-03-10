@@ -1,4 +1,6 @@
-# UgraCTFQuals
+﻿# UgraCTFQuals
+
+[official wp](https://github.com/teamteamdev/ugractf-2025-quals)
 
 ## portable executable
 
@@ -6,7 +8,9 @@
 
 | points: 100 | solutions: None |
 |-------|-------|
-| files: flag.exe | issolved: |
+| files: flag.exe | issolved: ✓ |
+
+`DOS`
 
 ## SecuSafe
 
@@ -19,7 +23,9 @@
 
 | points: 300 | solutions: None |
 |-------|-------|
-| files: flag.enc & secusafe.apk | issolved: |
+| files: flag.enc & secusafe.apk | issolved: lock |
+
+`APK(android16)` | `software repair` | `modified AES-ECB`
 
 ## Laundromat
 
@@ -29,7 +35,9 @@
 
 | points: 400 | solutions: None |
 |-------|-------|
-| files: laundromat | issolved: |
+| files: laundromat | issolved: lock |
+
+`Cookie Clicker(点击放置类游戏)` | `Rust` | `web server`
 
 ## Sifter
 
@@ -37,5 +45,7 @@
 
 | points: 400 | solutions: None |
 |-------|-------|
-| files: None(link) | issolved: |
+| files: None(link) | issolved: locked |
+
+`architecture` | `custom instruction machine`
 
