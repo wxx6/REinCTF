@@ -16,7 +16,9 @@
 
 | points: 333 | solutions: 41 |
 |-------|-------|
-| files: | issolved: |
+| files: | issolved: ✓ |
+
+`md5` | `hashcat`
 
 ## portable
 
@@ -24,7 +26,9 @@
 
 | points: 357 | solutions: 37 |
 |-------|-------|
-| files: | issolved: |
+| files: | issolved: ✓ |
+
+[cosmopolitan](https://justine.lol/ape.html) | `abstract`
 
 ## magicfile
 
@@ -44,7 +48,9 @@
 
 | points: 714 | solutions: 9 |
 |-------|-------|
-| files: | issolved: |
+| files: | issolved: lock |
+
+`js` | `obfuscator`
 
 ## superbooru
 
@@ -56,7 +62,7 @@
 |-------|-------|
 | files: | issolved: lock |
 
-`booru` | `EBNF(扩展巴科斯-瑙尔范式)`
+`booru(图床标签规则)` | `EBNF(扩展巴科斯-瑙尔范式)`
 
 [wp from questioner](https://mivik.moe/2025/solution/tpctf-2025/)
 
