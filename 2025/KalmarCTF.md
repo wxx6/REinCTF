@@ -11,7 +11,9 @@
 
 | points: 183 | solutions: 59 |
 |-------|-------|
-| files: snake.sfc | issolved: |
+| files: snake.sfc | issolved: lock |
+
+`snes`
 
 ## FlagSecurityEngine
 > The Kalmar FlagSecurityEngine™'s usage of the loadall() function will surely protect the flag from reverse engineering, right?
@@ -22,7 +24,7 @@
 |-------|-------|
 | files: flagsecurityengine | issolved: lock |
 
-`quickjs` | `JavaScript` | `Zig`
+`Monkey Patch` | `quickjs` | `JavaScript` | `Zig`
 
 ```js
 // load the Kalmar Flag Security Engine™
@@ -89,7 +91,7 @@ print(correct_flag)
 
 | points: 1000 | solutions: 0 |
 |-------|-------|
-| files: snake.sfc | issolved: |
+| files: snake.sfc | issolved: lock |
 
 ## Shafus Gone Crazy
 > You thought you knew SHA-256? Think again. Somewhere in the depths of obfuscation madness, Shafus the Algorithmic Trickster decided to "improve" the standard hash function with a mix of bizarre mathematical operations, unexpected transformations, and a sprinkle of chaos.
@@ -113,4 +115,4 @@ print(correct_flag)
 
 | points: 1000 | solutions: 0 |
 |-------|-------|
-| files: snake.sfc | issolved: |
+| files: snake.sfc | issolved: lock |
