@@ -32,5 +32,5 @@
 
 | points: 896 | solutions: 102 |
 |-------|-------|
-| files:  | issolved:  |
+| files:  | issolved: lock |
 
