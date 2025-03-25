@@ -1,0 +1,63 @@
+﻿# ApocalypseCTF
+
+## SealedRune
+
+> Elowen has reached the Ruins of Eldrath, where she finds a sealed rune stone glowing with ancient power. The rune is inscribed with a secret incantation that must be spoken to unlock the next step in her journey to find The Dragon’s Heart.
+
+| points:  | solutions:  |
+|-------|-------|
+| files:  | issolved: ✓ |
+
+## EncryptedScroll
+
+> Elowen Moonsong, an Elven mage of great wisdom, has discovered an ancient scroll rumored to contain the location of The Dragon’s Heart. However, the scroll is enchanted with an old magical cipher, preventing Elowen from reading it.
+
+| points:  | solutions:  |
+|-------|-------|
+| files:  | issolved: ✓ |
+
+## EndlessCycle
+
+> The elves have whispered to Elowen that the key to the Dragon's Heart is never directly visible; instead, there are clues in all the sounds and movements hidden in the world
+
+| points:  | solutions:  |
+|-------|-------|
+| files:  | issolved: ✓ |
+
+`random`
+
+## Impossimaze
+
+> Elowen has been cursed to roam forever in an inescapable maze. You need to break her curse and set her free.
+
+| points:  | solutions:  |
+|-------|-------|
+| files:  | issolved: ✓ |
+
+`lib curses`
+
+## Singlestep
+
+> Malakar has locked away a sacred artifact away in his dungeon. He has enchanted the locking mechanism to be self-protecting. Can you embark on a mission to free the artifact back to the people's hands?
+
+| points:  | solutions:  |
+|-------|-------|
+| files:  | issolved: ✓ |
+
+`smc` | `matrix`
+
+## Gateway
+
+> Malakar placed a spell on you that transported you to the Nether world. The only way to escape is to remember the enchantments of your forefathers, and unleash your ability to blast through Aether gateways...
+
+| points:  | solutions:  |
+|-------|-------|
+| files:  | issolved:  |
+
+## Heart Protector
+
+> Deep within the arcane forges of Eldoria, an ancient construct—woven from enchanted code and sealed by cryptic sigils—guards a powerful secret. Its core holds the Heart of Eldoria, concealed within layers of illusion and deception. Only those who unravel its intricate workings can restore what was lost. Will you be the one to break its curse?
+
+| points:  | solutions:  |
+|-------|-------|
+| files:  | issolved:  |
