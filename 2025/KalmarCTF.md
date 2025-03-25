@@ -73,14 +73,14 @@ print(correct_flag)
 
 | points: 343 | solutions: 16 |
 |-------|-------|
-| files: shafus_easy | issolved: |
+| files: shafus_easy | issolved: lock |
 
 ## Jormungandr
 > Remember rabbit hole from last year? This one goes even deeper!
 
 | points: 427 | solutions: 10 |
 |-------|-------|
-| files: jormungandr | issolved: |
+| files: jormungandr | issolved: lock |
 
 ## Snake II - Sonic Snake Fighter II
 > The stakes have been raised! This time, the snake game isn't just about apples—there's a whole new dimension to explore. Hidden within the depths of this SNES game lies a secret, waiting to be uncovered by those skilled enough to decode its mechanics.
@@ -102,7 +102,7 @@ print(correct_flag)
 
 | points: 1000 | solutions: 1 |
 |-------|-------|
-| files: shafus_hard | issolved: |
+| files: shafus_hard | issolved: lock |
 
 ## Snake III - Hungry for Snake
 > This isn't your average game of Snake. Every move matters, every apple counts, and every decision takes you deeper into the mystery. Precision and strategy are your greatest tools as you navigate through the puzzle.
