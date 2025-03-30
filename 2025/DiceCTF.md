@@ -4,7 +4,7 @@
 
 > Stripped rev is too hard - I've added even more debuginfo to help you with this challenge!
 
-| points:  | solutions:  |
+| points: 126 | solutions: 87 |
 |-------|-------|
 | files:  | issolved: ✓ |
 
@@ -14,7 +14,7 @@
 
 > [How do you dice an oño?](https://www.youtube.com/watch?v=CwRttSfnfcc)
 
-| points:  | solutions:  |
+| points: 153 | solutions: 40 |
 |-------|-------|
 | files:  | issolved:  |
 
@@ -24,7 +24,7 @@
 
 > Worried about your favorite infinite scrolling cat video generator being banned? Time to switch to DiceTok!
 
-| points:  | solutions:  |
+| points: 183 | solutions: 24 |
 |-------|-------|
 | files:  | issolved:  |
 
@@ -36,7 +36,7 @@
 > 
 > (help my QR code is encrypted!)
 
-| points:  | solutions:  |
+| points: 165 | solutions: 32 |
 |-------|-------|
 | files: None | issolved:  |
 
@@ -46,7 +46,7 @@
 
 > Comrades at the Institute for BioSafety have developed a prototype BCU-8 chip. They were able to get a simple diffusion experiment running successfully, but they're having trouble successfully running the transcription experiment. We keep getting the result "bad", can you figure out proper parameters?
 
-| points:  | solutions:  |
+| points: 318 | solutions: 6 |
 |-------|-------|
 | files:  | issolved:  |
 
@@ -55,6 +55,7 @@
 
 > A rouge group of comrades have been secretly developing a new version of the BCU-8 (biosplus). *They say it's "biologically accelerated" and even capable of running `translation` experiments, but we're not so sure. Can you figure out if they're telling the truth?*
 
-| points:  | solutions:  |
+| points: 400 | solutions: 3 |
 |-------|-------|
 | files:  | issolved:  |
+
