@@ -1,5 +1,7 @@
 ﻿# ApocalypseCTF
 
+[official wp](https://github.com/hackthebox/cyber-apocalypse-2025/tree/main/reversing/)
+
 ## SealedRune
 
 > Elowen has reached the Ruins of Eldrath, where she finds a sealed rune stone glowing with ancient power. The rune is inscribed with a secret incantation that must be spoken to unlock the next step in her journey to find The Dragon’s Heart.
@@ -52,7 +54,11 @@
 
 | points:  | solutions:  |
 |-------|-------|
-| files:  | issolved:  |
+| files:  | issolved: ✓ |
+
+`Heaven's Gate`(天堂之门) | `linux` | `retf`
+
+天堂之门是基于WoW64的windows技术，但也能应用在linux上。0x23表示32位模式执行，0x33表示64位模式执行，retf是切换两种模式的关键指令。如果碰上反汇编异常，可以尝试把机器码提取出来单独用在线网站反汇编。ida可以调，但是得用64位调而且得在执行64位代码前通过`Edit->Segments->Edit segment`将text段设置为64位，执行完后再改回32位。
 
 ## Heart Protector
 
@@ -60,4 +66,6 @@
 
 | points:  | solutions:  |
 |-------|-------|
-| files:  | issolved:  |
+| files:  | issolved: ✓ |
+
+`Nim Language` | `AES-GCM`
