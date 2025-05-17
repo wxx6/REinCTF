@@ -1,5 +1,7 @@
 ﻿# TAMUCTF
 
+[official wp](https://github.com/tamuctf/tamuctf-2025)
+
 ## What It Does
 
 > What does it do? Does it do what it does?
@@ -47,7 +49,9 @@
 
 | points: 456 | solutions: 11 |
 |-------|-------|
-| files:  | issolved:  |
+| files:  | issolved: ✓ |
+
+`minecraft server` | `base64` | `xxtea`
 
 ## Simple Check
 
@@ -57,7 +61,11 @@
 
 | points: 479 | solutions: 8 |
 |-------|-------|
-| files:  | issolved:  |
+| files:  | issolved: ✓ |
+
+`eBPF` | `0xcc断点`
+
+eBPF会插入硬件断点即0xff从而附加到进程，所以可以修改变量的值为0xcc，尤其是能将bool类型的值从False变为True
 
 ## FastFlagChecker
 
@@ -65,8 +73,8 @@
 
 | points: 493 | solutions: 5 |
 |-------|-------|
-| files:  | issolved:  |
+| files:  | issolved: ✓ |
 
-
+`多线程` | `Semaphore信号量`
 
 
