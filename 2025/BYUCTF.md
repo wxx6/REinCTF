@@ -4,7 +4,7 @@
 
 > u
 
-| points:  | solutions:  |
+| points: 50 | solutions: 460 |
 |-------|-------|
 | files:  | issolved: ✓ |
 
@@ -14,7 +14,7 @@
 
 > Checker? I hardly know her!
 
-| points:  | solutions:  |
+| points: 50 | solutions: 290 |
 |-------|-------|
 | files:  | issolved: ✓ |
 
@@ -24,13 +24,17 @@
 
 > If you've never reverse engineered an Android application, now is the time!! Get to it, already!! Learn more about how they work!!
 
+| points: 61 | solutions: 248 |
+|-------|-------|
+| files:  | issolved: ✓ |
+
 `安卓native`
 
 ## Baby Android 1
 
 > If you've never reverse engineered an Android application, now is the time!! Get to it, already!! Learn how they work!!
 
-| points:  | solutions:  |
+| points: 241 | solutions: 191 |
 |-------|-------|
 | files:  | issolved: ✓ |
 
@@ -40,7 +44,7 @@
 
 > This bank is totally secure. No way you can break your way into the vault or recover the password. We have a special key system that is unbreakable.
 
-| points:  | solutions:  |
+| points: 375 | solutions: 133 |
 |-------|-------|
 | files:  | issolved: ✓ |
 
@@ -52,7 +56,7 @@
 > 
 > (When you have the flag, the program will run printing "gotem")
 
-| points:  | solutions:  |
+| points: 481 | solutions: 53 |
 |-------|-------|
 | files:  | issolved:  |
 
