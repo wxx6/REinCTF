@@ -1,5 +1,7 @@
 ﻿# BYUCTF
 
+[official wp](https://github.com/BYU-CSA/BYUCTF-2025/tree/main/rev/)
+
 ## u
 
 > u
@@ -58,6 +60,8 @@
 
 | points: 481 | solutions: 53 |
 |-------|-------|
-| files:  | issolved:  |
+| files:  | issolved: ✓ |
 
-`abstract`
+`abstract` | `COW语言(brainfuck变体)`
+
+[COW](https://esolangs.org/wiki/COW)语言，很抽象，官方wp里给了解释脚本`moo.py`或者在线解释器[cow-interpreter](https://frank-buss.de/cow.html)。可以在开头的死循环处打印状态，从而观察数据变化。输入长度为39，前33个字符在经过`MOo`指令减法之后应该为2，最后6个字符在经过`MOo`减法或者`MoO`加法后等于`gotem`
