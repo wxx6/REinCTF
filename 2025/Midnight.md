@@ -6,4 +6,6 @@
 
 | points:  | solutions:  |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
+
+`math`
