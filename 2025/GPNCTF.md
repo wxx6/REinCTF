@@ -26,7 +26,11 @@
 
 | points: 253 | solutions: 15 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
+
+`bpf`
+
+参考[大佬wp](https://platypwnies.de/writeups/2025/gpn/reversing/honeypot/)
 
 ## CustomDice
 
@@ -44,4 +48,4 @@
 
 | points: 478 | solutions: 2 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
