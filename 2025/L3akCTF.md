@@ -1,5 +1,9 @@
 ﻿# L3akCTF
 
+2025-07-12
+
+[official wp](https://github.com/L3AK-TEAM/L3akCTF-2025-public/tree/main/rev)
+
 ## pacman
 
 > I am more than just a man, I am PACMAN!
@@ -31,7 +35,9 @@
 
 | points: 50 | solutions: 112 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: ✓ | abstract:  |
+
+最后就差一个字符，差在浮点数的处理上，还是不够细
 
 ## Math Is Key
 
@@ -39,7 +45,22 @@
 
 | points: 460 | solutions: 31 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
+
+`math`
+
+前三层check可以通过输入输出的关系推测运算，第五层是直接比较。第四层分析不出来，有点对脑洞
+
+```python
+from sympy import symbols, interpolate
+from sympy import simplify
+
+data = [(123, 0x1FCA527), (789, 0x1FCA7C1), (545, 0x1FCA6CD)]
+x = symbols('x')
+poly = interpolate(data, x)
+print("Simplified:", simplify(poly))
+
+```
 
 ## Alpha
 
@@ -47,7 +68,11 @@
 
 | points: 460 | solutions: 31 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: ✓ | abstract:  |
+
+`z3`
+
+又是差一点，就错了一个运算顺序
 
 ## Useless VM
 
@@ -55,7 +80,11 @@
 
 | points: 497 | solutions: 10 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
+
+`js` | `混淆`
+
+题解的思路是hook
 
 ## Flagdle
 
@@ -63,7 +92,11 @@
 
 | points: 499 | solutions: 7 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
+
+`go`
+
+程序很复杂
 
 ## Face ID
 
@@ -71,7 +104,7 @@
 
 | points: 500 | solutions: 5 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
 
 ## I Did a Thing
 
@@ -81,7 +114,7 @@
 
 | points: 500 | solutions: 3 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
 
 ## Quantam Exfil
 
@@ -89,4 +122,4 @@
 
 | points: 500 | solutions: 0 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
