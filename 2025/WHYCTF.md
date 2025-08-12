@@ -6,7 +6,7 @@
 
 > This code is so lazy it takes ages to run. Can you fix it so it runs faster?
 
-| points: 100 | solutions:  |
+| points: 100 | solutions: 350 |
 |-------|-------|
 | issolved: ✓ | abstract:  |
 
@@ -14,7 +14,7 @@
 
 > This code is so lazy it takes ages to run. Can you fix it so it runs faster?
 
-| points: 100 | solutions:  |
+| points: 100 | solutions: 338 |
 |-------|-------|
 | issolved: ✓ | abstract:  |
 
@@ -22,7 +22,7 @@
 
 > Can you pick the right ball out Mark his magic bag ten times in a row?
 
-| points: 100 | solutions:  |
+| points: 100 | solutions: 315 |
 |-------|-------|
 | issolved: ✓ | abstract:  |
 
@@ -34,7 +34,7 @@
 
 > Find the key for user WHYCTF and Submit the flag by doing flag{md5(key)}
 
-| points: 300 | solutions:  |
+| points: 300 | solutions: 39 |
 |-------|-------|
 | issolved: ✓ | abstract:  |
 
@@ -45,7 +45,7 @@
 > I have been playing with a safe lock and a logic analyzer for a while. But I forgot which buttons I pressed, could you take a look?
 Note: There are no brackets on the keypad, but you will figure out where they go, won't you?
 
-| points:  | solutions:  |
+| points: 100 | solutions: 91 |
 |-------|-------|
 | issolved:  | abstract: ✓ |
 
@@ -57,7 +57,7 @@ Note: There are no brackets on the keypad, but you will figure out where they go
 
 > We're developing a new CPU, can you help beta test it?
 
-| points:  | solutions:  |
+| points: 200 | solutions: 7 |
 |-------|-------|
 | issolved:  | abstract:  |
 
@@ -67,7 +67,7 @@ Note: There are no brackets on the keypad, but you will figure out where they go
 > 
 > This challenge is provided by Challenge The Cyber.
 
-| points:  | solutions:  |
+| points: 200 | solutions: 84 |
 |-------|-------|
 | issolved:  | abstract:  |
 
@@ -75,6 +75,6 @@ Note: There are no brackets on the keypad, but you will figure out where they go
 
 > Binary sleuth, we need your help! We recently developed a new data format for keeping track of all the quadrennial Dutch hacker conventions. Our interns have painstakingly filled this database; you can list its contents by doing `./hedb hacker_events.bin`. When we checked our internal repository the other day a new database file called `haxx0r_sc3ntz.bin` appeared out of nowhere. It is much larger in size and doesn't seem to exhibit benign behavior. Can you figure out what the hell is going on here?
 
-| points:  | solutions:  |
+| points: 300 | solutions: 4 |
 |-------|-------|
 | issolved:  | abstract:  |
