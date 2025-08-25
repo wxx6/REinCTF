@@ -133,9 +133,15 @@ You HAVE to retrace my steps and go back to the future - it's life or death, Mar
 
 | points: 100 | solutions: 113 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: ✓ | abstract:  |
 
-`mobile`
+`Forensics` | `mobile`
+
+给了一个简单的安卓完整目录，可以使用`tree`命令和`ripgrep`来帮助梳理和查找，密码有一部分在sqlite数据库文件中，一部分在图片二进制中
+
+```bash
+rg.exe -a "part\d" ./		# 可以在当前目录下以二进制搜索
+```
 
 ## FridayCake
 
@@ -145,7 +151,7 @@ You HAVE to retrace my steps and go back to the future - it's life or death, Mar
 
 | points: 181 | solutions: 72 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: ✓ | abstract:  |
 
 `mobile`
 
@@ -157,6 +163,7 @@ You HAVE to retrace my steps and go back to the future - it's life or death, Mar
 
 | points: 603 | solutions: 25 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: ✓ | abstract:  |
 
-`mobile`
+`mobile` | `flutter`
+
