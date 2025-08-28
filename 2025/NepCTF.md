@@ -1,5 +1,7 @@
 ﻿# NepCTF
 
+2025-07-25
+
 ## Realme
 
 > Seeing is not necessarily believing, can you recognize the real me?
@@ -18,11 +20,11 @@
 
 | points: 512 | solutions: 20 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
 
-`PyQt`
+`PyQt` | `md5魔改` | `aes魔改`
 
-libcrypto文件应该是出题人自己写的，sign函数像是md5，但是应该有魔改。。后续aes部分都懒得看了
+libcrypto文件应该是出题人自己写的，关键函数还加了混淆，sign函数像是md5，但是应该有魔改。。后续aes部分都懒得看了
 
 ## QRS
 
@@ -30,7 +32,9 @@ libcrypto文件应该是出题人自己写的，sign函数像是md5，但是应�
 
 | points: 555 | solutions: 17 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
+
+`rust` | `axum框架` | `魔改xtea`
 
 ## SpeedMino-Warlock
 
@@ -39,7 +43,7 @@ Find the true Secret FLAG
 
 | points: 833 | solutions: 5 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
 
 ## FlutterPro
 
@@ -47,7 +51,9 @@ Find the true Secret FLAG
 
 | points: 1000 | solutions: 1 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
+
+`flutter`
 
 ## XSafe
 
@@ -62,7 +68,7 @@ flag格式：NepCTF2025{uuid}
 
 | points: 1000 | solutions: 0 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
 
 ## reboot
 
@@ -70,4 +76,4 @@ flag格式：NepCTF2025{uuid}
 
 | points: 1000 | solutions: 0 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
