@@ -16,7 +16,7 @@
 
 | points: 445 | solutions: 15 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
 
 ## Yet-another-maze
 
@@ -26,7 +26,9 @@
 
 | points: 453 | solutions: 14 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
+
+`il2cpp` | `3d maze`
 
 ## Virtual Mind
 
@@ -46,7 +48,7 @@
 
 | points: 496 | solutions: 5 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
 
 ## magic_in_packets
 
@@ -54,7 +56,7 @@
 
 | points: 500 | solutions: 2 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
 
 ## XI: Akasha
 
@@ -64,7 +66,7 @@
 
 | points: 500 | solutions: 0 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
 
 ## Car Watching
 
@@ -73,4 +75,4 @@ password: deadsec
 
 | points: 500 | solutions: 0 |
 |-------|-------|
-| issolved:  | abstract:  |
+| issolved: lock | abstract:  |
