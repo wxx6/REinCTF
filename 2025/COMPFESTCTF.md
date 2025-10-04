@@ -10,6 +10,8 @@
 |-------|-------|
 | issolved: ✓ | abstract:  |
 
+`love2d` | `luajit`
+
 ## Yet Another Flag Checker
 
 > Is it really a CTF without a flag checker challenge?
