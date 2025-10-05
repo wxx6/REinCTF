@@ -6,7 +6,7 @@
 
 > bur bur bur bur burhanpedia
 
-| points: 200 | solutions: 27 |
+| points: 100 | solutions: 34 |
 |-------|-------|
 | issolved: ✓ | abstract:  |
 
